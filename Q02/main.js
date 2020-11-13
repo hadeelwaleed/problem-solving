@@ -8,7 +8,6 @@ Have the function LongestWord(sen) take the sen parameter being passed and retur
 
 function LongestWord_2(sen) {
   // YOUR CODE HERE
-
 }
 
 /* 
@@ -18,5 +17,3 @@ LongestWord_2('I** love, cats'); // => 'love'
 LongestWord_2('coding&& is awesome'); // => 'awesome'
 LongestWord_2('hello|| world'); // => 'hello'
 */
-
-

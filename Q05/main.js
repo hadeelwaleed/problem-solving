@@ -8,7 +8,6 @@ Have the function FindIntersection(strArr) read the array of strings stored in s
 
 function FindIntersection(strArr) {
   // YOUR CODE HERE
-  
 }
 
 /* 
@@ -16,4 +15,3 @@ Examples:
 FindIntersection(['1, 3, 4, 7, 13', '1, 2, 4, 13, 15']); // => '1,4,13'
 FindIntersection(['1, 3, 9, 10, 17, 18', '1, 4, 9, 10']); // => '1,9,10'
 */
-

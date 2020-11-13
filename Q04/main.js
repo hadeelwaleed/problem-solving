@@ -21,5 +21,4 @@ function CodelandUsernameValidation(str) {
 Examples:
 CodelandUsernameValidation('aa_'); // => false
 CodelandUsernameValidation('u__hello_world123'); // => true
-
 */
