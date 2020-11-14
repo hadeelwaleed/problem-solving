@@ -28,6 +28,36 @@ function LongestWord(sen) {
 
 /* Q3: First Reverse */
 
-/* Q4: Codeland Username Validation */
+/* Q4: Username Validation */
 
 /* Q5: Find Intersection */
+/* Q6: Even or Not */
+/* Q7: Sum Array Odd */
+/* Q8: Unique Item */
+/* Q9: Longest Sequence */
+/* Q10: Times Of Most Freq Char */
+/* Q11: Is Power Of Two */
+/* Q12: Reverse Each Word */
+/* Q13: Largest Possible Sum */
+
+/* Q14:  */
+/* Q15:  */
+/* Q16:  */
+/* Q17:  */
+/* Q18:  */
+/* Q19:  */
+/* Q20:  */
+/* Q21:  */
+/* Q22:  */
+/* Q23:  */
+/* Q24:  */
+/* Q25:  */
+/* Q26:  */
+/* Q27:  */
+/* Q28:  */
+/* Q29:  */
+/* Q30:  */
+/* Q31:  */
+/* Q32:  */
+/* Q33:  */
+/* Q34:  */

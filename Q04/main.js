@@ -1,9 +1,9 @@
 console.log('Problem Solving Q: 4 ');
 
-/* Codeland Username Validation */
+/* Username Validation */
 
 /*  
-Have the function CodelandUsernameValidation(str) take the str parameter being passed and determine if the string is a valid username according to the following rules:
+Have the function usernameValidation(str) take the str parameter being passed and determine if the string is a valid username according to the following rules:
 
 1. The username is between 4 and 25 characters.
 2. It must start with a letter.
@@ -13,12 +13,13 @@ Have the function CodelandUsernameValidation(str) take the str parameter being p
 If the username is valid then your program should return the string true, otherwise return the string false.
 */
 
-function CodelandUsernameValidation(str) {
+function usernameValidation(str) {
   // YOUR CODE HERE
 }
 
 /* 
 Examples:
-CodelandUsernameValidation('aa_'); // => false
-CodelandUsernameValidation('u__hello_world123'); // => true
+usernameValidation('aa_'); // => false
+usernameValidation('u__hello_world123'); // => true
+
 */
