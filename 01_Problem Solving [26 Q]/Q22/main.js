@@ -1,19 +1,19 @@
 console.log('Problem Solving Q: 22');
 
-/* characterFrequency */
+/* characterRecurrence */
 
 /*  
  Write a function that takes as its input a string and returns an array of 
- arrays as shown below sorted in descending order by frequency and then by 
+ arrays as shown below sorted in descending order by recurrence and then by 
  ascending order by character.
 */
 
-function characterFrequency() {
+function characterRecurrence() {
   // YOUR CODE HERE
 }
 
 /* 
 Examples:
-characterFrequency('mississippi') // =>  [ ['i', 4],['s', 4],  ['p', 2],  ['m', 1]  ]
-characterFrequency('miaaiaaippi') // =>  [ ['a', 4],  ['i', 4],  ['p', 2],  ['m', 1] ]
+characterRecurrence('mississippi') // =>  [ ['i', 4],['s', 4],  ['p', 2],  ['m', 1]  ]
+characterRecurrence('miaaiaaippi') // =>  [ ['a', 4],  ['i', 4],  ['p', 2],  ['m', 1] ]
 */

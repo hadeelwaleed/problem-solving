@@ -1,18 +1,18 @@
 console.log('Problem Solving Q: 21');
 
-/* onlyUnique */
+/* removeNotUnique */
 
 /*  
-Given a string, remove any characters that are not unique from the string.
+Given a string, delete any characters that are not unique from the string.
 */
 
-function onlyUnique() {
+function removeNotUnique() {
   // YOUR CODE HERE
 }
 
 /* 
 Examples:
-onlyUnique('hello there') // => 'o tr'
-onlyUnique('xyz') // => 'xyz'
-onlyUnique('iiii') // => ''
+removeNotUnique('hello there') // => 'o tr'
+removeNotUnique('xyz') // => 'xyz'
+removeNotUnique('iiii') // => ''
 */

@@ -1,18 +1,18 @@
 console.log('Problem Solving Q:16 ');
 
-/* evenOccurrence */
+/* evenAppearance */
 
 /*  
-Find the first item that occurs an even number of times in an array.
+Find the first item that appear an even number of times in an array.
 */
 
-function evenOccurrence() {
+function evenAppearance() {
   // YOUR CODE HERE
 }
 
 /* 
 Examples:
-evenOccurrence([1,2,6,6]) // => 6
-evenOccurrence([1,2,9,8,8,6,6]) // => 8 
-evenOccurrence([1,9,7,3,6,6,8,9,9]) // => 6
+evenAppearance([1,2,6,6]) // => 6
+evenAppearance([1,2,9,8,8,6,6]) // => 8 
+evenAppearance([1,9,7,3,6,6,8,9,9]) // => 6
 */

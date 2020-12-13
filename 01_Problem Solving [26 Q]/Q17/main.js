@@ -1,18 +1,18 @@
 console.log('Problem Solving Q:17 ');
 
-/*  */
+/* findFirstNonIterativedCharacter */
 
 /*  
-Given an arbitrary input string, return the first non-repeating character. For strings with all repeats, return 'sorry'
+Given an arbitrary input string, return the first Non Iteratived character. For strings with all repeats, return 'sorry'
 */
 
-function firstNonRepeatedCharacter() {
+function findFirstNonIterativedCharacter() {
   // YOUR CODE HERE
 }
 
 /* 
 Examples:
-firstNonRepeatedCharacter('ABCDBIRDUP') // => 'A'
-firstNonRepeatedCharacter('ALABAMA') // => 'L'
-firstNonRepeatedCharacter('Uber for horses') // => 'U'
+findFirstNonIterativedCharacter('ABCDBIRDUP') // => 'A'
+findFirstNonIterativedCharacter('ALABAMA') // => 'L'
+findFirstNonIterativedCharacter('Uber for horses') // => 'U'
 */
