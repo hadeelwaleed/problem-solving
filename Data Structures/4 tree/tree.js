@@ -14,13 +14,8 @@ class Tree {
     this.children = [];
   }
   // add new cheldren to the tree
-  addChildren(value) {
-
-  }
+  addChildren(value) {}
 
   // check if the value is exist in the tree
-  isContain(target) {
-
-  }
-
+  isContain(target) {}
 }

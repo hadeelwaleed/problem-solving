@@ -13,22 +13,11 @@ class LinkedList {
     this.tail = null;
   }
 
-  createNode(value) {
+  createNode(value) {}
 
-  }
+  addToTail(value) {}
 
-  addToTail(value) {
+  removeHead() {}
 
-  }
-
-  removeHead() {
-
-  }
-
-
-  contains(value) {
-
-
-  }
-
+  contains(value) {}
 }
