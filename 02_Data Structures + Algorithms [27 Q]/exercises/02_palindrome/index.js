@@ -8,5 +8,16 @@
 //   palindrome("abcdefg") === false
 
 function palindrome(str) {}
+// sodo code
+
+// let palindromesring = "";
+// if ((palindromestring with space and punctuations = palindromesring 
+// with space and punctuations.revers)) {
+//   return true;
+// } else {
+//   palindromesring with space and punctuations !=
+//  palindromesring with space and punctuations.revers;
+//   return false;
+// }
 
 module.exports = palindrome;
