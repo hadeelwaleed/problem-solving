@@ -7,8 +7,15 @@ Write a function that returns the sum of odd numbers in an array.
 */
 
 function SumOddNumber() {
-  // YOUR CODE HERE
-}
+let sum = 0;
+for (var i=0 ;
+  i<Array.length;i++){
+    if (arr[i]%2 !=0){
+      sum =sum +arr[i]
+    }
+  }
+  return sum
+  }
 
 /* 
 Examples:

@@ -7,7 +7,11 @@ Write a function that returns true if a number is even, and false otherwise.
 */
 
 function evenOrNot() {
-  // YOUR CODE HERE
+if (typeof (value) != 'number'){
+  return
+}
+let result = value % 2 ==0
+return result;
 }
 
 /* 

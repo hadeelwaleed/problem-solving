@@ -1,4 +1,4 @@
-console.log('Problem Solving Q: 2 ');
+console.log("Problem Solving Q: 2 ");
 
 /* Longest Word 2 */
 
@@ -7,7 +7,16 @@ Have the function LongestWord(sen) take the sen parameter being passed and retur
 */
 
 function longestWord_2(sen) {
-  // YOUR CODE HERE
+  sen = sen.slit(" ");
+  const REGEX = /[^/w/s]/gi;
+  let LongWord = "";
+  for (let i = 0; i < sen.length; i++) {
+    sen[i] = sen[i].replace(REGEX, "");
+    if (sen[i].length > LongWord.length) {
+      LongWord = sen[i];
+    }
+  }
+  return LongWord;
 }
 
 /* 

@@ -7,7 +7,13 @@ Have the function FirstReverse(str) take the str parameter being passed and retu
 */
 
 function firstReverse(str) {
-  // YOUR CODE HERE
+str = str.split('');
+let strReverse = '';
+for (let i = str.length - 1; i >=0; i--){
+  strReverse += str[i];
+
+}
+return strReverse;
 }
 
 /* 

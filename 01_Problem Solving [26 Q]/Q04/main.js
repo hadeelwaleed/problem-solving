@@ -14,7 +14,14 @@ If the username is valid then your program should return the string true, otherw
 */
 
 function usernameValidation(str) {
-  // YOUR CODE HERE
+const SpecialCharRegex = /[^/w/w]/;
+return (
+  str.length >= 4&&
+  str.length <= 25&&
+  !!str[0].match(/[A-Za-z]/)&&
+  !SpecialCharRegex.test(str) &&
+  str[str.length  - 1] !== ' '
+);
 }
 
 /* 

@@ -7,8 +7,15 @@ Have the function FindIntersection(strArr) read the array of strings stored in s
 */
 
 function findIntersection(strArr) {
-  // YOUR CODE HERE
-  
+let arrOne = strArr[0].split(", ");
+let arrTwo = strArr [1].split(", ");
+let result = [];
+for (let i = 0; i < arrOne.length ; i++){
+  if (arrTwo.indexoff( arrOne[i] !== -1){
+    result.push(arrOne[1]);
+  }
+ }
+  return result.join(',');
 }
 
 /* 

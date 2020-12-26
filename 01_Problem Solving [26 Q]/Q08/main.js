@@ -6,8 +6,17 @@ console.log('Problem Solving Q: 8');
 Write a function that returns the number of unique items in an array.
 */
 
-function uniqueItems() {
-  // YOUR CODE HERE
+function uniqueItems(arr) {
+ let obj ={}
+ for (var i = 0; i < arr.length; i++){
+   if (obj[arr[i]] >=0){
+     obj[arr[1]]=obj[arr[1]]+1;
+     } else{
+     obj[arr[1]]=1;
+     }
+     }
+     result = object.keys(obj)
+      return result.length;
 }
 
 /* 
